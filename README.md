@@ -1,4 +1,4 @@
-[!Mr Robot](https://telegra.ph/file/73aca635cab99ea1152c3.jpg)](https://t.me/MonPakhi72)
+[!Mr Robot](https://telegra.ph/file/73aca635cab99ea1152c3.jpg)(https://t.me/MonPakhi72)
 
 # MrRobot Mirror Bot
 # Owner [Mr Robot](https://t.me/MonPakhi72)

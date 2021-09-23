@@ -1,7 +1,7 @@
-[![Nobita](https://telegra.ph/SR-Shoruv-08-18)](https://youtube.com/c/SolutionsofTechnology)
+[!Mr Robot](https://telegra.ph/file/73aca635cab99ea1152c3.jpg)](https://t.me/MonPakhi72)
 
-# Nobita Mirror Bot
-# Owner [SR Shoruv](https://t.me/srshoruv7)
+# MrRobot Mirror Bot
+# Owner [Mr Robot](https://t.me/MonPakhi72)
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-tg-mirror-bot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-tg-mirror-bot?style=flat)
@@ -9,7 +9,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
 [![Contactl](https://img.shields.io/badge/Contact%20Mel-!-red)](https://t.me/nobita_o)
 
-**Nobita Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**MrRobot Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Features supported:
 <details>
@@ -83,7 +83,7 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 - **DOWNLOAD_DIR**: The path to the local folder where the downloads should be downloaded to
 - **DOWNLOAD_STATUS_UPDATE_INTERVAL**: A short interval of time in seconds after which the Mirror progress message is updated. (I recommend to keep it `5` seconds at least)  
 - **AUTO_DELETE_MESSAGE_DURATION**: Interval of time (in seconds), after which the bot deletes it's message (and command message) which is expected to be viewed instantly. (**Note**: Set to `-1` to never automatically delete messages)
-- **UPSTREAM_REPO**: Link for Bot Upstream Repo, Dont Change it, fill `https://github.com/nobita-o/Nobita-Mirror-Bot`.
+- **UPSTREAM_REPO**: Link for Bot Upstream Repo, Dont Change it, fill `https://github.com/MrRobotdw39/Ibur-Mbot`.
 - **UPSTREAM_BRANCH**: Don't Touch it, fill `master`.
 ### Optional Field
 - **ACCOUNTS_ZIP_URL**: Only if you want to load your Service Account externally from an Index Link. Archive your Service Account json files to a zip file directly (don't archive the accounts folder. Select all the jsons inside and zip them only instead. Name the zip file with whatever you want, it doesn't matter). Fill this with the direct link of that file.
@@ -143,10 +143,10 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 
 # Contact Me
 
-[Telegram](https://t.me/nobita_o)
+[Telegram](https://t.me/MonPakhi72)
 
 # Credits
 
 All Credits Goes to:
 
-[Nobita](https://t.me/nobita_o)
+[Mr Robot](https://t.me/MonPakhi72)
